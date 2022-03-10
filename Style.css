@@ -1,0 +1,21 @@
+body{
+  margin: auto;
+  background-color: #3e3e3e;
+}
+
+h1
+{
+  color: #3e3e3e;
+  font-size: 20;
+}
+h2
+{
+  font-size: 15;
+}
+h3{
+  font-size: 15;
+}
+h6
+{
+  font-size: 1;
+}
